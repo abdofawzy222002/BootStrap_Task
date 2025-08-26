@@ -493,7 +493,7 @@ footer {
 }
 
 
-.card-body {
+.second-card-body {
     background-color: #2a325dd0;
     padding: 1.5rem;
     color: #FFFFFF;
@@ -506,7 +506,7 @@ footer {
     width: 100%;
 }
 
-.card-body p {
+.second-card-body p {
     font-weight: 400;
     font-size: 24px;
     line-height: 1.6;
@@ -514,13 +514,13 @@ footer {
     text-align: right;
 }
 
-.card-body span {
+.second-card-body span {
     font-weight: 700;
     font-size: 28px;
     margin-bottom: 0.5rem;
 }
 
-.card-body a {
+.second-card-body a {
     color: var(--btn-color);
     text-decoration: none;
     font-size: 22px;
